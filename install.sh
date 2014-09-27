@@ -2,7 +2,7 @@
 
 set -ex
 
-WEBFOLDER="/var/www/ghtest
+WEBFOLDER="/var/www/ghtest"
 
 mkdir -p $WEBFOLDER
 cp index.html $WEBFOLDER/
